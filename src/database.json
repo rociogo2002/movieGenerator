@@ -1,0 +1,126 @@
+{
+    "movies": [
+      {
+        "title": "Pelicula 1",
+        "genre": "Acción"
+      },
+      {
+        "title": "Pelicula 2",
+        "genre": "Comedia"
+      },
+      {
+        "title": "Pelicula 3",
+        "genre": "Drama"
+      },
+      {
+        "title": "Pelicula 4",
+        "genre": "Aventura"
+      },
+      {
+        "title": "Pelicula 5",
+        "genre": "Suspenso"
+      }
+      ,
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "director": "Chris Columbus"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "director": "Chris Columbus"
+      },
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "year": 2004,
+        "director": "Alfonso Cuarón"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "director": "Mike Newell"
+      },
+      {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "director": "David Yates"
+      },
+      {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "year": 2009,
+        "director": "David Yates"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows – Part 1",
+        "year": 2010,
+        "director": "David Yates"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows – Part 2",
+        "year": 2011,
+        "director": "David Yates"
+      },
+      {
+        "title": "The Lion King",
+        "year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Beauty and the Beast",
+        "year": 1991,
+        "director": "Gary Trousdale, Kirk Wise",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Aladdin",
+        "year": 1992,
+        "director": "Ron Clements, John Musker",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Frozen",
+        "year": 2013,
+        "director": "Chris Buck, Jennifer Lee",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Moana",
+        "year": 2016,
+        "director": "Ron Clements, John Musker",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Toy Story",
+        "year": 1995,
+        "director": "John Lasseter",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "director": "Andrew Stanton",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Cinderella",
+        "year": 1950,
+        "director": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson",
+        "src": "http://localhost:8000/lord-farquaad.webp"
+      },
+      {
+        "title": "Mulan",
+        "year": 1998,
+        "director": "Tony Bancroft, Barry Cook",
+        "src": "https://example.com/mulan.jpg"
+      },
+      {
+        "title": "Zootopia",
+        "year": 2016,
+        "director": "Byron Howard, Rich Moore",
+        "src": "https://example.com/zootopia.jpg"
+      }
+    ]
+  }
+  
